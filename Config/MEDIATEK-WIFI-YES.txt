@@ -3,16 +3,4 @@ CONFIG_TARGET_mediatek=y
 CONFIG_TARGET_mediatek_filogic=y
 #设备列表
 
-
-
 CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_supergateway_s20p=y
-
-
-
-CONFIG_PACKAGE_luci-app-samba4=y
-CONFIG_PACKAGE_luci-app-tailscale=y
-#CONFIG_PACKAGE_luci-app-easytier=m
-#CONFIG_PACKAGE_luci-app-gecoosac=m
-#CONFIG_PACKAGE_luci-app-banip=m
-#CONFIG_PACKAGE_luci-i18n-banip-zh-cn=m
-CONFIG_PACKAGE_luci-app-lucky=y
