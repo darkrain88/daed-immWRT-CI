@@ -1,5 +1,6 @@
 #大鹅代理
 CONFIG_PACKAGE_daed=y
+CONFIG_PACKAGE_luci-app-daede=y
 #CONFIG_PACKAGE_daed-geoip=y
 #CONFIG_PACKAGE_daed-geosite=y
 #CONFIG_PACKAGE_luci-app-daed=y
