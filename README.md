@@ -1,5 +1,9 @@
 # OpenWRT-CI
 
+
+https://github.com/kwrum1/daed-ImmortalWRT-CI.git
+
+
 官方版：
 
 https://github.com/immortalwrt/immortalwrt.git
