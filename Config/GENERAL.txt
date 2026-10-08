@@ -39,6 +39,8 @@ CONFIG_PACKAGE_luci-app-partexp=y
 CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-mod-rpc=y
 CONFIG_PACKAGE_luci-lib-json=y
+CONFIG_PACKAGE_luci-app-oaf=y
+CONFIG_PACKAGE_luci-i18n-oaf-zh-cn=y
 
 CONFIG_PACKAGE_luci-app-mini-diskmanager=y
 CONFIG_PACKAGE_luci-app-netspeedtest=n
@@ -179,3 +181,4 @@ CONFIG_PACKAGE_acme=y
 CONFIG_PACKAGE_acme-acmesh=y
 CONFIG_PACKAGE_acme-acmesh-dnsapi=y
 CONFIG_PACKAGE_acme-common=y
+CONFIG_PACKAGE_nexttrace=y
